@@ -1,0 +1,4 @@
+[submodule "mrtrix3"]
+	path = mrtrix3
+	url = https://github.com/mrtrix3/mrtrix3
+	branch = cmake_experimental_shared
